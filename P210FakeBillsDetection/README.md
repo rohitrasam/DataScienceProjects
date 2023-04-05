@@ -1,4 +1,4 @@
-#P210 Fake Bills Detection
+# P210 Fake Bills Detection
 
 Predicting fake bills using different classification techniques:
   1. Logistic Regression
